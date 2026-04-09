@@ -3,6 +3,8 @@
 A decentralized email and messaging application built on the [Internet Computer](https://internetcomputer.org/) (ICP) blockchain. Tuams provides privacy-first communication through on-chain storage and Internet Identity authentication — no centralized servers, no data harvesting.
 
 <img width="1200" height="692" alt="{BCF0F23C-1E0F-4DBB-BF67-94849FAF7D28}" src="https://github.com/user-attachments/assets/a9d560c7-22e2-4572-b422-cd40a75d7550" />
+<img width="2340" height="1375" alt="image" src="https://github.com/user-attachments/assets/3e5dcde2-7040-46c5-9dcf-62aadc12e037" />
+
 
 ## Features
 
